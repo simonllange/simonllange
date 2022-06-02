@@ -3,5 +3,6 @@
 - 🌱 Lige nu fokusere jeg på React/Next.js
 - 💞️ Jeg er uddannet Webudvikler
 - 📫 Kontakt mig på simonllange@gmail.com
+- 💼 Frontend Udvikler @ Mindthemedia ApS
 
 
